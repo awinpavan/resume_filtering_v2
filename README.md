@@ -141,18 +141,3 @@ TOTAL                            7        1210        1660       0.0043
 * [Groq API](https://groq.com/) for fast LLM inference
 * [Supabase](https://supabase.com/) for storage
 
----
-
-## 📌 Next Steps / TODO
-
-* [ ] Add Dockerfile for easy deployment
-* [ ] Build a web UI to visualize compatibility reports
-* [ ] Extend with recruiter feedback loop for continuous improvement
-
-```
-
----
-
-I can also create this as a **downloadable `README.md` file** for you right now so you can just save it in your repo. Do you want me to do that?
-
-```
